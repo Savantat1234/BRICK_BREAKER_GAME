@@ -14,7 +14,7 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author chinm
+ * @author savan
  */
 public class MapGenerator {
      public int map[][];
